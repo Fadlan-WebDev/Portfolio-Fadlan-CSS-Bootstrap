@@ -1,0 +1,17 @@
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+}
+
+#sft {
+  color: #198754;
+  padding-bottom: 20px;
+}
+
+#my {
+  color: #198754;
+}
+
+body {
+  background-color: #000;
+}
